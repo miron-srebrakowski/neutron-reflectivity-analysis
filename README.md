@@ -1,4 +1,5 @@
-# SH_Project
+# Neutron Reflectivity Analysis
+
 Senior Honours Project: Neutron Reflectivity Data Analysis
 
 D2O_analysis.ipynb - Jupyter Notebook containing main refnx data analysis and MCMC sampling 
