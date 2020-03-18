@@ -1,11 +1,9 @@
 # Neutron Reflectivity Analysis
 
-Senior Honours Project: Neutron Reflectivity Data Analysis
+Senior Honours Project: Neutron Reflectivity Data Analysis using refnx Python library in a Bayesian framework.
 
-D2O_analysis.ipynb - Jupyter Notebook containing main refnx data analysis and MCMC sampling 
+File structure:
 
-d2o.txt - D2O data 
-
-pmw.txt - H2O data 
-
-classModel.ipynb - custom bilayer model structure build 
+1) Bilayer.ipynb - analysis using refnx LipidLeaflet model structure of floating bilayer
+2) Monolayer.ipynb - analysis using refnx LipidLeaflet model structure of floating bilayer with a top DODAB monolayer
+3) Custom(Head Hydration).
