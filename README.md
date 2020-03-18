@@ -9,4 +9,4 @@ File structure:
 3) Custom(Head Hydration).ipynb - analysis using custom structure class hydrating heads directly
 4) Custom(SLD Hydration).ipynb - analysis using custom structure class hydrating via volume fraction
 5) monolayer.py - custom structure class hydrating heads directly
-6) monolayer.py - custom structure class hydrating via volume fraction
+6) solvFrac.py - custom structure class hydrating via volume fraction
