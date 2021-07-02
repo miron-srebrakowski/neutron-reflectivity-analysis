@@ -1,6 +1,6 @@
 # Neutron Reflectivity Analysis
 
-Senior Honours Project: Neutron Reflectivity Data Analysis using refnx Python library in a Bayesian framework.
+Senior Honours Project: Neutron Reflectivity Data Analysis using refnx Python library in a Bayesian framework. Lipid parameters optimised using Monte Carlo methods.
 
 File structure:
 
